@@ -1,0 +1,61 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #E4F9F5;
+    background-image: url(images/image4.jpg);
+    background-size: 1024px auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+}
+
+main {
+    height: 400px;
+    width: 1024px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+footer {
+    background-color: #40514E;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+
+p {
+    font-size: 20px;
+    color: gray;
+    font-family: 'Sacramento', cursive;
+}
+
+p:hover {
+    color:#40514E;
+}
+
+
+/* footer p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+} */
+
+.maps {
+    margin-bottom: 20px;
+    padding-bottom: 100px;
+}
+
